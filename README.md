@@ -2,4 +2,4 @@
 
 This repo was used to learn git.
 
-![alt text](https://www.filepicker.io/api/file/yakcYFosRcK8JzZ0LoT2)
+![git](https://www.filepicker.io/api/file/yakcYFosRcK8JzZ0LoT2)
