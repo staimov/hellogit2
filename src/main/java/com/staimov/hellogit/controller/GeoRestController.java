@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class GeoRestController {
     @GetMapping("/geo")
     public Geo getGeo() {
-       return new Geo("Bellingshausen",
-               -62.196389, -58.960833);
+       return new Geo("Molodezhnaya",
+               -67.671667, 45.8558333);
     }
 }
